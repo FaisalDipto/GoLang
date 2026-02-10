@@ -2,7 +2,8 @@ package main
 
 import (
 	// "Module2/part1"
-	"Module2/part2"
+	// "Module2/part2"
+	"Module2/part3"
 	// "Module2/part2/test"
 )
 
@@ -26,5 +27,6 @@ func main(){
 	// part2.Prob7()
 	// part2.Prob8()
 	// part2.Prob9()
-	part2.Prob10()
+	// part2.Prob10()
+	part3.Prob1()
 }
