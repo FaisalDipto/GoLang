@@ -28,5 +28,7 @@ func main(){
 	// part2.Prob8()
 	// part2.Prob9()
 	// part2.Prob10()
-	part3.Prob1()
+	// part3.Prob1()
+	// part3.Prob2()
+	part3.Prob3()
 }
