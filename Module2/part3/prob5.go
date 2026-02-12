@@ -1,21 +1,23 @@
 package part3
 
-import "fmt"
+// User struct redeclared for problem 9
 
-type User struct{
-	FirstName string
-	LastName string
-}
+// import "fmt"
 
-func (u User) FullName() string{
-	return u.FirstName + ", " + u.LastName
-}
+// type User struct{
+// 	FirstName string
+// 	LastName string
+// }
 
-func Prob5(){
-	u1 := User{
-		FirstName: "Faisal",
-		LastName: "Dipto",
-	}
+// func (u User) FullName() string{
+// 	return u.FirstName + ", " + u.LastName
+// }
 
-	fmt.Println(u1.FullName())
-}
+// func Prob5(){
+// 	u1 := User{
+// 		FirstName: "Faisal",
+// 		LastName: "Dipto",
+// 	}
+
+// 	fmt.Println(u1.FullName())
+// }

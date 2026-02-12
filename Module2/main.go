@@ -33,5 +33,9 @@ func main(){
 	// part3.Prob3()
 	// part3.Prob4()
 	// part3.Prob5()
-	part3.Prob6()
+	// part3.Prob6()
+	// part3.Prob7()
+	// part3.Prob8()
+	// part3.Prob9()
+	part3.Prob10()
 }
