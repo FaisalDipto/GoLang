@@ -3,8 +3,9 @@ package main
 import (
 	// "Module2/part1"
 	// "Module2/part2"
-	"Module2/part3"
+	// "Module2/part3"
 	// "Module2/part2/test"
+	"Module2/part4"
 )
 
 func main(){
@@ -37,5 +38,9 @@ func main(){
 	// part3.Prob7()
 	// part3.Prob8()
 	// part3.Prob9()
-	part3.Prob10()
+	// part3.Prob10()
+	// part4.Prob2()
+	// part4.Prob3()
+	// part4.Prob4()
+	part4.Prob5()
 }
