@@ -5,7 +5,8 @@ import (
 	// "Module2/part2"
 	// "Module2/part3"
 	// "Module2/part2/test"
-	"Module2/part4"
+	// "Module2/part4"
+	"Module2/part5"
 )
 
 func main(){
@@ -47,5 +48,10 @@ func main(){
 	// part4.Prob7()
 	// part4.Prob8()
 	// part4.Prob9()
-	part4.Prob10()
+	// part4.Prob10()
+	// part5.Prob1()
+	// part5.Prob2()
+	// part5.Prob3()
+	// part5.Prob4()
+	part5.Prob5()
 }
