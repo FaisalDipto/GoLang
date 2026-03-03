@@ -14,7 +14,6 @@ func Prob7(){
 	jobs := make(chan int, 5)
 	results := make(chan int, 5)
 
-
 	for i := 1; i <= 3; i++{
 		go Worker(jobs, results)
 	}
